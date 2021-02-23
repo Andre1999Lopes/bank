@@ -1,0 +1,16 @@
+D:\Arquivos\meus projetos\dotnet\dio\bank\bin\Debug\net5.0\bank.exe
+D:\Arquivos\meus projetos\dotnet\dio\bank\bin\Debug\net5.0\bank.deps.json
+D:\Arquivos\meus projetos\dotnet\dio\bank\bin\Debug\net5.0\bank.runtimeconfig.json
+D:\Arquivos\meus projetos\dotnet\dio\bank\bin\Debug\net5.0\bank.runtimeconfig.dev.json
+D:\Arquivos\meus projetos\dotnet\dio\bank\bin\Debug\net5.0\bank.dll
+D:\Arquivos\meus projetos\dotnet\dio\bank\bin\Debug\net5.0\ref\bank.dll
+D:\Arquivos\meus projetos\dotnet\dio\bank\bin\Debug\net5.0\bank.pdb
+D:\Arquivos\meus projetos\dotnet\dio\bank\obj\Debug\net5.0\bank.csprojAssemblyReference.cache
+D:\Arquivos\meus projetos\dotnet\dio\bank\obj\Debug\net5.0\bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\meus projetos\dotnet\dio\bank\obj\Debug\net5.0\bank.AssemblyInfoInputs.cache
+D:\Arquivos\meus projetos\dotnet\dio\bank\obj\Debug\net5.0\bank.AssemblyInfo.cs
+D:\Arquivos\meus projetos\dotnet\dio\bank\obj\Debug\net5.0\bank.csproj.CoreCompileInputs.cache
+D:\Arquivos\meus projetos\dotnet\dio\bank\obj\Debug\net5.0\bank.dll
+D:\Arquivos\meus projetos\dotnet\dio\bank\obj\Debug\net5.0\ref\bank.dll
+D:\Arquivos\meus projetos\dotnet\dio\bank\obj\Debug\net5.0\bank.pdb
+D:\Arquivos\meus projetos\dotnet\dio\bank\obj\Debug\net5.0\bank.genruntimeconfig.cache
